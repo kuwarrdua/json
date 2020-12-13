@@ -1,5 +1,52 @@
-[{"model":"Lotlux","color":"Fuscia"},
-{"model":"Fixflex","color":"Aquamarine"},
-{"model":"Bitwolf","color":"Pink"},
-{"model":"Veribet","color":"Orange"},
-{"model":"Voltsillam","color":"Blue"}]
+[
+  {
+    "model": "Holdlamis",
+    "color": "Violet",
+    "image": "https://robohash.org/utetquia.bmp?size=50x50&set=set1"
+  },
+  {
+    "model": "Stim",
+    "color": "Khaki",
+    "image": "https://robohash.org/voluptateminimanemo.jpg?size=50x50&set=set1"
+  },
+  {
+    "model": "Fixflex",
+    "color": "Maroon",
+    "image": "https://robohash.org/laborumdeseruntfuga.jpg?size=50x50&set=set1"
+  },
+  {
+    "model": "Voltsillam",
+    "color": "Purple",
+    "image": "https://robohash.org/repudiandaenameum.png?size=50x50&set=set1"
+  },
+  {
+    "model": "Lotlux",
+    "color": "Pink",
+    "image": "https://robohash.org/autnoneius.bmp?size=50x50&set=set1"
+  },
+  {
+    "model": "Pannier",
+    "color": "Turquoise",
+    "image": "https://robohash.org/quipariaturoccaecati.bmp?size=50x50&set=set1"
+  },
+  {
+    "model": "Matsoft",
+    "color": "Maroon",
+    "image": "https://robohash.org/quimolestiaeaspernatur.bmp?size=50x50&set=set1"
+  },
+  {
+    "model": "Overhold",
+    "color": "Mauv",
+    "image": "https://robohash.org/quiillohic.jpg?size=50x50&set=set1"
+  },
+  {
+    "model": "Sonair",
+    "color": "Khaki",
+    "image": "https://robohash.org/voluptatibusaccusamusdeserunt.png?size=50x50&set=set1"
+  },
+  {
+    "model": "Sonsing",
+    "color": "Green",
+    "image": "https://robohash.org/doloremutvoluptate.bmp?size=50x50&set=set1"
+  }
+]
